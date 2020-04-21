@@ -1,0 +1,3 @@
+C:/Users/sofik/CLionProjects/MergeSorting/cmake-build-debug/CMakeFiles/MergeSorting.dir
+C:/Users/sofik/CLionProjects/MergeSorting/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sofik/CLionProjects/MergeSorting/cmake-build-debug/CMakeFiles/rebuild_cache.dir
